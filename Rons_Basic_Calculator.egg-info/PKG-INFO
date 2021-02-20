@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: Rons-Basic-Calculator
+Version: 0.0.1
+Summary: Basic Calculator 
+Home-page: UNKNOWN
+Author: Ronny Karani
+Author-email: karanironny25@gmail.com
+License: MIT
+Description: This is a Basic Calculator to add, Subtract, multiply or divide Numbers
+        
+        Published to the PyPi
+        
+        change Log
+        =============
+        
+        0.0.1 (20/02/2021)
+        --------------------
+        - First Release
+Keywords: calculator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

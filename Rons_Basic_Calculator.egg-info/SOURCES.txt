@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+Rons-Basic-Calculator/__init__.py
+Rons_Basic_Calculator.egg-info/PKG-INFO
+Rons_Basic_Calculator.egg-info/SOURCES.txt
+Rons_Basic_Calculator.egg-info/dependency_links.txt
+Rons_Basic_Calculator.egg-info/top_level.txt
